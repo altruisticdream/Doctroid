@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152294478725",
+    "project_id": "doctroid-267d2",
+    "storage_bucket": "doctroid-267d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152294478725:android:6dbf8e1b126710dd4aeaec",
+        "android_client_info": {
+          "package_name": "com.example.doctroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152294478725-7otq53dp90cmuiebre84cdem1k4194tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdhEYVLGOtpmEqZbV5jJEdBd6zOaGjO5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152294478725-7otq53dp90cmuiebre84cdem1k4194tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
